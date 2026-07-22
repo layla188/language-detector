@@ -1,0 +1,4 @@
+Model,Accuracy,Average Latency (seconds),Loading Time (seconds),Supported Languages,Approx. Weight Size (GB),Direct Local Cost (USD/prediction)
+Papluca XLM-RoBERTa,1.0,0.04632078999999673,5.459802100000161,20,1.11,0.0
+JB2K Multilingual BERT,1.0,0.04911950333341034,2.5479793000004065,45,0.71,0.0
+Multilingual E5,1.0,0.05156798666675968,4.333388000000014,45,1.11,0.0
