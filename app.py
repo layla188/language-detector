@@ -61,6 +61,8 @@ demo = gr.Interface(
         ["La reunión comienza mañana por la mañana."],
         ["Das Wetter ist heute sehr angenehm."],
     ],
+    cache_examples=True,
+    theme="soft",
 )
 
 if __name__ == "__main__":
